@@ -3,4 +3,5 @@ description: Nothing in life is to be feared, it is only to be understood. Now i
 featured_image: /images/covid-EU.png
 title: 'Covid-19 European Tracker'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Welcome to our blog. 
+

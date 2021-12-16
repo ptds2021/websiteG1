@@ -7,7 +7,25 @@ title: Contact
 type: page
 ---
 
+![](/laurene.jpg)
+Laurène Hsieh email: laurene.hsieh@unil.ch
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
 
-{{< form-contact action="https://example.com"  >}}
+![](/aellya.jpeg)
+Aëllya Monney email: aellya.monney@unil.ch
+
+
+![](/visesa.jpg)
+Visesa Jain email: visesa.jain@unil.ch
+
+
+![](/corinne.jpg)
+Corinne Schönholzer  email: corinne.schonholzer@unil.ch
+
+
+![](/remy.jpg)
+Rémy Tombola email: remy.tombola@unil.ch
+
+![](https://www.youtube.com/embed/2T8aMHByoeo)
+
+

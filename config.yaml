@@ -1,4 +1,4 @@
-title: Covid-19 Tracker
+title: EU Covid-19 Tracker
 baseURL: https://example.com
 languageCode: en-us
 theme: gohugo-theme-ananke
@@ -11,20 +11,16 @@ enableRobotsTXT: yes
 languages:
   en:
     contentDir: content/en
-    title: My blog
+    title: PTDS Group 1
     weight: 1
-  fr:
-    contentDir: content/fr
-    title: Mon blogue
-    weight: 2
 sitemap:
   changefreq: monthly
   filename: sitemap.xml
   priority: 0.5
 params:
   ananke_socials:
-    - name: twitter
-      url: https://twitter.com/GoHugoIO
+    - name: github
+      url: https://github.com/ptds2021/
   author: ''
   background_color_class: bg-black
   description: The last theme you'll ever need. Maybe.
