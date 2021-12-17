@@ -5,3 +5,4 @@ title: 'Covid-19 European Tracker'
 ---
 Welcome to our blog. 
 
+[See vignette](/document.pdf)
