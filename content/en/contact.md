@@ -26,6 +26,5 @@ Corinne Schönholzer  email: corinne.schonholzer@unil.ch
 ![](/remy.jpg)
 Rémy Tombola email: remy.tombola@unil.ch
 
-![](https://www.youtube.com/embed/2T8aMHByoeo)
 
 
