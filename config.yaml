@@ -24,7 +24,7 @@ params:
   author: ''
   background_color_class: bg-black
   description: The last theme you'll ever need. Maybe.
-  favicon: ''
+  favicon: 'favicon'
   featured_image: /images/gohugo-default-sample-hero-image.jpg
   recent_posts_number: 2
   site_logo: ''
