@@ -28,7 +28,6 @@ params:
   featured_image: /images/gohugo-default-sample-hero-image.jpg
   recent_posts_number: 2
   site_logo: ''
-markup: 
-  goldmark: 
-    renderer:
-      unsafe: true
+goldmark: 
+  renderer:
+    unsafe: true
