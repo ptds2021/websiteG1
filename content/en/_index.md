@@ -1,6 +1,6 @@
 ---
 description: Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. Marie Curie
-image: covid-EU.jpeg
+featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 title: 'Covid-19 European Tracker'
 ---
 
