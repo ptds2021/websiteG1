@@ -1,0 +1,33 @@
+title: EU Covid-19 Tracker
+baseURL: https://example.com
+languageCode: en-us
+theme: gohugo-theme-ananke
+resourceDir: ../resources
+DefaultContentLanguage: en
+SectionPagesMenu: main
+Paginate: 3
+googleAnalytics: ''
+enableRobotsTXT: yes
+languages:
+  en:
+    contentDir: content/en
+    title: PTDS Group 1
+    weight: 1
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
+params:
+  ananke_socials:
+    - name: github
+      url: https://github.com/ptds2021/
+  author: ''
+  background_color_class: bg-black
+  description: The last theme you'll ever need. Maybe.
+  favicon: ''
+  featured_image: /images/gohugo-default-sample-hero-image.jpg
+  recent_posts_number: 2
+  site_logo: ''
+goldmark: 
+  renderer:
+    unsafe: true
